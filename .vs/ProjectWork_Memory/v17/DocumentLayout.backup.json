@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filippo.stoppa\\Desktop\\Project Work\\ProjectWork_Memory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\project work\\projectwork_memory\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\project work\\projectwork_memory\\partita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:partita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\project work\\projectwork_memory\\gestorematrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:gestorematrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\project work\\projectwork_memory\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\project work\\projectwork_memory\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\project work\\projectwork_memory\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Project Work\\ProjectWork_Memory\\View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Project Work\\ProjectWork_Memory\\View\\MainPage.xaml.cs",
+              "RelativeToolTip": "View\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:26:37.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Project Work\\ProjectWork_Memory\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Project Work\\ProjectWork_Memory\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-05-10T06:14:46.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carta.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Project Work\\ProjectWork_Memory\\Carta.cs",
+              "RelativeDocumentMoniker": "Carta.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Project Work\\ProjectWork_Memory\\Carta.cs",
+              "RelativeToolTip": "Carta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:14:13.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestoreMatrice.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Project Work\\ProjectWork_Memory\\GestoreMatrice.cs",
+              "RelativeDocumentMoniker": "GestoreMatrice.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Project Work\\ProjectWork_Memory\\GestoreMatrice.cs",
+              "RelativeToolTip": "GestoreMatrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:13:28.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Partita.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Project Work\\ProjectWork_Memory\\Partita.cs",
+              "RelativeDocumentMoniker": "Partita.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Project Work\\ProjectWork_Memory\\Partita.cs",
+              "RelativeToolTip": "Partita.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:12:26.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Giocatore.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Project Work\\ProjectWork_Memory\\Giocatore.cs",
+              "RelativeDocumentMoniker": "Giocatore.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Project Work\\ProjectWork_Memory\\Giocatore.cs",
+              "RelativeToolTip": "Giocatore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "",
+              "WhenOpened": "2025-05-10T06:11:53.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

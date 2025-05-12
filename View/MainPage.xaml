@@ -1,0 +1,34 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             x:Class="MemoryApp.MainPage"
+             BackgroundColor="#1A0033">
+
+    <VerticalStackLayout Padding="40,100" Spacing="30" HorizontalOptions="Center">
+
+        <Image Source="brain_logo.png" HeightRequest="100" WidthRequest="100"/>
+        <Label Text="MEMORY" FontSize="24" TextColor="White" HorizontalOptions="Center"/>
+
+        <Button Text="Inizia Una Partita"
+                FontSize="16"
+                WidthRequest="280"
+                HeightRequest="60"
+                BackgroundColor="White"
+                TextColor="#1A0033"
+                CornerRadius="10"/>
+
+        <Button Text="Regolamento"
+                FontSize="16"
+                WidthRequest="280"
+                HeightRequest="60"
+                BackgroundColor="White"
+                TextColor="#1A0033"
+                CornerRadius="10"/>
+
+        <Button Text="Esci"
+                FontSize="16"
+                WidthRequest="280"
+                HeightRequest="60"
+                BackgroundColor="White"
+                TextColor="#1A0033"
+                CornerRadius="10"/>
+    </VerticalStackLayout>
+</ContentPage>

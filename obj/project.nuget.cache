@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xLpKaDi/0P8=",
+  "success": false,
+  "projectFilePath": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\ProjectWork_Memory.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Per uno o più framework di destinazione non è indicata la versione della piattaforma, anche se è stata specificata una piattaforma: net8.0-android, net8.0-ios, net8.0-maccatalyst"
+    }
+  ]
+}
