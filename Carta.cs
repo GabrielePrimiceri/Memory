@@ -8,9 +8,6 @@ namespace ProjectWork_Memory
     public class Carta
     {
         private int _numero;
-
-        
-
         public int Numero
         {
             get 
@@ -22,6 +19,17 @@ namespace ProjectWork_Memory
                 if (value <= 0) throw new ArgumentOutOfRangeException("Errore");
                 _numero = value;
             }
+        }
+        public Carta(int numero)
+        {
+            Numero= numero; 
+        }
+        public override bool Equals(object? obj)
+        {
+            if (obj == null||obj is not Carta) return false;
+            Carta carta = obj as Carta;
+            if(carta.Numero==Numero) return true;
+            else return false;
         }
     }
 }

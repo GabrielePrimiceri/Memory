@@ -11,11 +11,14 @@
     </ShowAsAssociation>
   </Class>
   <Class Name="ProjectWork_Memory.Giocatore">
-    <Position X="3.25" Y="5.5" Width="1.5" />
+    <Position X="9.75" Y="3.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAAAAAA=</HashCode>
       <FileName>Giocatore.cs</FileName>
     </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_gestoreMatrice" />
+    </ShowAsAssociation>
   </Class>
   <Class Name="ProjectWork_Memory.GestoreMatrice">
     <Position X="11.25" Y="0.5" Width="1.5" />
@@ -28,7 +31,7 @@
     </ShowAsCollectionAssociation>
   </Class>
   <Class Name="ProjectWork_Memory.Carta">
-    <Position X="9.5" Y="5" Width="1.5" />
+    <Position X="6.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
       <FileName>Carta.cs</FileName>

@@ -7,25 +7,27 @@ namespace ProjectWork_Memory
 {
     public class Partita
     {
-        public GestoreMatrice GestoreMatrice
+        GestoreMatrice gestoreMatrice;
+        Giocatore giocatore;
+
+        public Partita()
         {
-            get => default;
-            set
-            {
-            }
+            giocatore = new Giocatore();
+            gestoreMatrice = new GestoreMatrice(4, 4);
         }
 
-        public Giocatore Giocatore
+        public bool ControllaCoppia(int riga, int colonna, int riga2, int colonna2)
         {
-            get => default;
-            set
+            Carta carta = giocatore.ScegliCarta(riga, colonna);
+            Carta carta2 = giocatore.ScegliCarta(riga2, colonna2);
+            bool giusto = false;
+            if (carta==carta2)
             {
+                giocatore.GestoreMatrice.MatriceCarte[riga,colonna]=null;
+                giocatore.GestoreMatrice.MatriceCarte[riga2, colonna2] = null;
+                giusto = true;
             }
-        }
-
-        public void ControllaCoppia()
-        {
-            throw new System.NotImplementedException();
+            return giusto;
         }
     }
 }
