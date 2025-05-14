@@ -1,4 +1,4 @@
-﻿namespace ProjectWork_Memory
+﻿namespace ProjectWork_Memory.View
 {
     public partial class MainPage : ContentPage
     {

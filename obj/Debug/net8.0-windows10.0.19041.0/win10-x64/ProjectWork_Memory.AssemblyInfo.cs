@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectWork_Memory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+175dd087f8e6b13523096fd2ba97d2cb6b1fd9f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3827a7c513cf64312a06dd3a1adaa7db618810c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectWork_Memory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectWork_Memory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

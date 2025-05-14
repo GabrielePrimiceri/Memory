@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ProjectWork_Memory
+namespace ProjectWork_Memory.Model
 {
     public class GestoreMatrice
     {
@@ -18,7 +18,7 @@ namespace ProjectWork_Memory
 
         public GestoreMatrice(int righe, int colonne)
         {
-            MatriceCarte=new Carta[righe,colonne];
+            MatriceCarte = new Carta[righe, colonne];
             _random = new Random();
         }
 

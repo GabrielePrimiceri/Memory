@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|d:\\projectwork_memory\\projectwork_memory\\partita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:partita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|d:\\projectwork_memory\\projectwork_memory\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|d:\\projectwork_memory\\projectwork_memory\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|d:\\projectwork_memory\\projectwork_memory\\gestorematrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:gestorematrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|d:\\projectwork_memory\\projectwork_memory\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|d:\\projectwork_memory\\projectwork_memory\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|d:\\projectwork_memory\\projectwork_memory\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|d:\\projectwork_memory\\projectwork_memory\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|d:\\projectwork_memory\\projectwork_memory\\model\\partita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:model\\partita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|d:\\projectwork_memory\\projectwork_memory\\model\\gestorematrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:model\\gestorematrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|d:\\projectwork_memory\\projectwork_memory\\model\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:model\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|d:\\projectwork_memory\\projectwork_memory\\model\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:model\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|D:\\ProjectWork_Memory\\ProjectWork_Memory\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
@@ -38,35 +46,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:35:37.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:35:25.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\View\\MainPage.xaml",
               "RelativeDocumentMoniker": "View\\MainPage.xaml",
               "ToolTip": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\View\\MainPage.xaml",
               "RelativeToolTip": "View\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-13T16:42:01.684Z"
+              "WhenOpened": "2025-05-13T16:42:01.684Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\View\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "View\\MainPage.xaml.cs",
               "ToolTip": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\View\\MainPage.xaml.cs",
               "RelativeToolTip": "View\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T06:26:37.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "ClassDiagram1.cd",
@@ -77,50 +110,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Carta.cs",
-              "DocumentMoniker": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Carta.cs",
-              "RelativeDocumentMoniker": "Carta.cs",
-              "ToolTip": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Carta.cs",
-              "RelativeToolTip": "Carta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Model\\Carta.cs",
+              "RelativeDocumentMoniker": "Model\\Carta.cs",
+              "ToolTip": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Model\\Carta.cs",
+              "RelativeToolTip": "Model\\Carta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T06:14:13.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GestoreMatrice.cs",
-              "DocumentMoniker": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\GestoreMatrice.cs",
-              "RelativeDocumentMoniker": "GestoreMatrice.cs",
-              "ToolTip": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\GestoreMatrice.cs",
-              "RelativeToolTip": "GestoreMatrice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Model\\GestoreMatrice.cs",
+              "RelativeDocumentMoniker": "Model\\GestoreMatrice.cs",
+              "ToolTip": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Model\\GestoreMatrice.cs",
+              "RelativeToolTip": "Model\\GestoreMatrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T06:13:28.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Partita.cs",
-              "DocumentMoniker": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Partita.cs",
-              "RelativeDocumentMoniker": "Partita.cs",
-              "ToolTip": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Partita.cs",
-              "RelativeToolTip": "Partita.cs",
+              "DocumentMoniker": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Model\\Partita.cs",
+              "RelativeDocumentMoniker": "Model\\Partita.cs",
+              "ToolTip": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Model\\Partita.cs",
+              "RelativeToolTip": "Model\\Partita.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T06:12:26.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T06:12:26.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Giocatore.cs",
-              "DocumentMoniker": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Giocatore.cs",
-              "RelativeDocumentMoniker": "Giocatore.cs",
-              "ToolTip": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Giocatore.cs",
-              "RelativeToolTip": "Giocatore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Model\\Giocatore.cs",
+              "RelativeDocumentMoniker": "Model\\Giocatore.cs",
+              "ToolTip": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\Model\\Giocatore.cs",
+              "RelativeToolTip": "Model\\Giocatore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "",
               "WhenOpened": "2025-05-10T06:11:53.53Z"

@@ -1,34 +1,38 @@
 ﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-             x:Class="MemoryApp.MainPage"
-             BackgroundColor="#1A0033">
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:mi="http://www.aathifmahir.com/dotnet/2022/maui/icons"
+             x:Class="ProjectWork_Memory.View.MainPage"
+             Title="">
 
-    <VerticalStackLayout Padding="40,100" Spacing="30" HorizontalOptions="Center">
+    <VerticalStackLayout Spacing="25"
+                         Padding="30,0"
+                         VerticalOptions="Center">
 
-        <Image Source="brain_logo.png" HeightRequest="100" WidthRequest="100"/>
-        <Label Text="MEMORY" FontSize="24" TextColor="White" HorizontalOptions="Center"/>
+        <Image Source="memory_icon.png"
+               HeightRequest="150"
+               HorizontalOptions="Center" />
 
-        <Button Text="Inizia Una Partita"
-                FontSize="16"
-                WidthRequest="280"
+        <Button Text="Inizia una partita"
+                FontSize="18"
                 HeightRequest="60"
-                BackgroundColor="White"
-                TextColor="#1A0033"
-                CornerRadius="10"/>
+                CornerRadius="30"
+                BackgroundColor="#4CAF50"
+                TextColor="White"/>
 
         <Button Text="Regolamento"
-                FontSize="16"
-                WidthRequest="280"
+                FontSize="18"
                 HeightRequest="60"
-                BackgroundColor="White"
-                TextColor="#1A0033"
-                CornerRadius="10"/>
+                CornerRadius="30"
+                BackgroundColor="#2196F3"
+                TextColor="White"/>
 
         <Button Text="Esci"
-                FontSize="16"
-                WidthRequest="280"
+                FontSize="18"
                 HeightRequest="60"
-                BackgroundColor="White"
-                TextColor="#1A0033"
-                CornerRadius="10"/>
-    </VerticalStackLayout>
+                CornerRadius="30"
+                BackgroundColor="#F44336"
+                TextColor="White"/>
+
+        </VerticalStackLayout>
 </ContentPage>

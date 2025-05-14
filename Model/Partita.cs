@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ProjectWork_Memory
+namespace ProjectWork_Memory.Model
 {
     public class Partita
     {
@@ -21,9 +21,9 @@ namespace ProjectWork_Memory
             Carta carta = giocatore.ScegliCarta(riga, colonna);
             Carta carta2 = giocatore.ScegliCarta(riga2, colonna2);
             bool giusto = false;
-            if (carta==carta2)
+            if (carta == carta2)
             {
-                giocatore.GestoreMatrice.MatriceCarte[riga,colonna]=null;
+                giocatore.GestoreMatrice.MatriceCarte[riga, colonna] = null;
                 giocatore.GestoreMatrice.MatriceCarte[riga2, colonna2] = null;
                 giusto = true;
             }

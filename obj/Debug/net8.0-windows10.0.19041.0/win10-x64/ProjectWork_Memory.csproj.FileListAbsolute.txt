@@ -1,1 +1,13 @@
 C:\Users\filippo.stoppa\Desktop\Project Work\ProjectWork_Memory\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectWork_Memory.csproj.AssemblyReference.cache
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectWork_Memory.csproj.AssemblyReference.cache
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectWork_Memory.GeneratedMSBuildEditorConfig.editorconfig

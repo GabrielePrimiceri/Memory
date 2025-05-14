@@ -39,3 +39,44 @@ C:\Users\filippo.stoppa\Desktop\Project Work\ProjectWork_Memory\obj\Debug\net8.0
 C:\Users\filippo.stoppa\Desktop\Project Work\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ProjectWork_Memory.dll
 C:\Users\filippo.stoppa\Desktop\Project Work\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\ProjectWork_Memory.dll
 C:\Users\filippo.stoppa\Desktop\Project Work\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ProjectWork_Memory.pdb
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.outputs
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ProjectWork_Memory.csproj.AssemblyReference.cache
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ProjectWork_Memory.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ProjectWork_Memory.AssemblyInfoInputs.cache
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ProjectWork_Memory.AssemblyInfo.cs
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ProjectWork_Memory.csproj.CoreCompileInputs.cache
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ProjectWork_Memory.dll
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\ProjectWork_Memory.dll
+D:\ProjectWork_Memory\ProjectWork_Memory\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ProjectWork_Memory.pdb

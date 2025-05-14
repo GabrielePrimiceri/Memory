@@ -1,4 +1,6 @@
-﻿namespace ProjectWork_Memory
+﻿using ProjectWork_Memory.View;
+
+namespace ProjectWork_Memory
 {
     public partial class App : Application
     {
@@ -6,7 +8,7 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            MainPage = new NavigationPage(new MainPage());
         }
     }
 }
