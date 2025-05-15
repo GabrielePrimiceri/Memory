@@ -1,38 +1,36 @@
-﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
              xmlns:mi="http://www.aathifmahir.com/dotnet/2022/maui/icons"
-             x:Class="ProjectWork_Memory.View.MainPage"
-             
+             x:Class="ProjectWork_Memory.View.SceltaDifficolta"
              Title="">
 
-    <VerticalStackLayout Spacing="25"
+    <VerticalStackLayout Spacing="20" 
                          Padding="30,0"
                          VerticalOptions="Center">
 
-        
-
-        <Button Text="Inizia una partita"
-                Clicked="IniziaPartita"
+        <Button Text="Facile (4x4)" 
                 FontSize="18"
                 HeightRequest="60"
                 CornerRadius="30"
                 BackgroundColor="#4CAF50"
                 TextColor="White"/>
 
-        <Button Text="Regolamento"
+        <Button Text="Media (4x6)" 
                 FontSize="18"
                 HeightRequest="60"
                 CornerRadius="30"
-                BackgroundColor="#2196F3"
-                TextColor="White"/>
+                BackgroundColor="#FFC107"
+                TextColor="Black"/>
 
-        <Button Text="Esci"
+        <Button Text="Difficile (4x8)" 
+                
                 FontSize="18"
                 HeightRequest="60"
                 CornerRadius="30"
                 BackgroundColor="#F44336"
                 TextColor="White"/>
 
-        </VerticalStackLayout>
+    </VerticalStackLayout>
 </ContentPage>

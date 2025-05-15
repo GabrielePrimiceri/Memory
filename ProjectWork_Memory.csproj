@@ -70,4 +70,10 @@
 	  <Folder Include="View-Model\" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <None Update="View\SceltaDifficolta.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </None>
+	</ItemGroup>
+
 </Project>

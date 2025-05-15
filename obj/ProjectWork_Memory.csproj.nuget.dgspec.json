@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjectWork_Memory\\ProjectWork_Memory\\ProjectWork_Memory.csproj": {}
+    "C:\\Users\\dante.magalotti\\Desktop\\Memory\\ProjectWork_Memory.csproj": {}
   },
   "projects": {
-    "D:\\ProjectWork_Memory\\ProjectWork_Memory\\ProjectWork_Memory.csproj": {
+    "C:\\Users\\dante.magalotti\\Desktop\\Memory\\ProjectWork_Memory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\ProjectWork_Memory.csproj",
+        "projectUniqueName": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\ProjectWork_Memory.csproj",
         "projectName": "ProjectWork_Memory",
-        "projectPath": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\ProjectWork_Memory.csproj",
+        "projectPath": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\ProjectWork_Memory.csproj",
         "packagesPath": "C:\\Users\\w10\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjectWork_Memory\\ProjectWork_Memory\\obj\\",
+        "outputPath": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

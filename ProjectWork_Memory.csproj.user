@@ -3,7 +3,7 @@
   <PropertyGroup>
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net8.0-android</ActiveDebugFramework>
-    <ActiveDebugProfile>Emulatore Android</ActiveDebugProfile>
+    <ActiveDebugProfile>Pixel 5 - API 33 (13.0 Android - API 33)</ActiveDebugProfile>
     <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
     <DefaultDevice>pixel_5_-_api_33</DefaultDevice>
   </PropertyGroup>
@@ -12,7 +12,7 @@
     <PlatformTarget>arm64</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
-    <None Update="App.xaml">
+    <None Update="View\App.xaml">
       <SubType>Designer</SubType>
     </None>
     <None Update="Platforms\Windows\App.xaml">
@@ -25,6 +25,9 @@
       <SubType>Designer</SubType>
     </None>
     <None Update="Resources\Styles\Styles.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="View\NewPage1.xaml">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
