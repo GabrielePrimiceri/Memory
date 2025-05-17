@@ -12,6 +12,23 @@
     <PlatformTarget>arm64</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
+    <MauiXaml Update="View\DifficoltaDifficile.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="View\DifficoltaFacile.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="View\DifficoltaMedia.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="View\Regolamento.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="View\SceltaDifficolta.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+  </ItemGroup>
+  <ItemGroup>
     <None Update="View\App.xaml">
       <SubType>Designer</SubType>
     </None>
@@ -25,9 +42,6 @@
       <SubType>Designer</SubType>
     </None>
     <None Update="Resources\Styles\Styles.xaml">
-      <SubType>Designer</SubType>
-    </None>
-    <None Update="View\NewPage1.xaml">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>

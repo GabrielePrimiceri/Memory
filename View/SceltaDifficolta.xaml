@@ -4,33 +4,36 @@
              xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
              xmlns:mi="http://www.aathifmahir.com/dotnet/2022/maui/icons"
              x:Class="ProjectWork_Memory.View.SceltaDifficolta"
-             Title="">
+             BackgroundColor="#512BD4"
+             Title="Scelta Difficolta">
 
     <VerticalStackLayout Spacing="20" 
                          Padding="30,0"
                          VerticalOptions="Center">
 
         <Button Text="Facile (4x4)" 
+                Clicked="OnEasyClicked"
                 FontSize="18"
                 HeightRequest="60"
                 CornerRadius="30"
-                BackgroundColor="#4CAF50"
-                TextColor="White"/>
+                BackgroundColor="White"
+                TextColor="Black"/>
 
         <Button Text="Media (4x6)" 
+                Clicked="OnMediumClicked"
                 FontSize="18"
                 HeightRequest="60"
                 CornerRadius="30"
-                BackgroundColor="#FFC107"
+                BackgroundColor="White"
                 TextColor="Black"/>
 
         <Button Text="Difficile (4x8)" 
-                
+                Clicked="OnHardClicked"
                 FontSize="18"
                 HeightRequest="60"
                 CornerRadius="30"
-                BackgroundColor="#F44336"
-                TextColor="White"/>
+                BackgroundColor="White"
+                TextColor="Black"/>
 
     </VerticalStackLayout>
 </ContentPage>

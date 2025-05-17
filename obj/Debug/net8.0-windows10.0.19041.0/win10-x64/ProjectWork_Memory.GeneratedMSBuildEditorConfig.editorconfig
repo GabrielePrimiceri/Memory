@@ -13,36 +13,60 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjectWork_Memory
-build_property.ProjectDir = C:\Users\dante.magalotti\Desktop\Memory\
+build_property.ProjectDir = C:\Users\alexandru.condila\Desktop\Memory\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/dante.magalotti/Desktop/Memory/Resources/Styles/Colors.xaml]
+[C:/Users/alexandru.condila/Desktop/Memory/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectWork_Memory.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/dante.magalotti/Desktop/Memory/Resources/Styles/Styles.xaml]
+[C:/Users/alexandru.condila/Desktop/Memory/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectWork_Memory.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/dante.magalotti/Desktop/Memory/View/App.xaml]
+[C:/Users/alexandru.condila/Desktop/Memory/View/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectWork_Memory.View.App.xaml
 build_metadata.AdditionalFiles.TargetPath = View\App.xaml
 build_metadata.AdditionalFiles.RelativePath = View\App.xaml
 
-[C:/Users/dante.magalotti/Desktop/Memory/View/MainPage.xaml]
+[C:/Users/alexandru.condila/Desktop/Memory/View/DifficoltaDifficile.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectWork_Memory.View.DifficoltaDifficile.xaml
+build_metadata.AdditionalFiles.TargetPath = View\DifficoltaDifficile.xaml
+build_metadata.AdditionalFiles.RelativePath = View\DifficoltaDifficile.xaml
+
+[C:/Users/alexandru.condila/Desktop/Memory/View/DifficoltaFacile.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectWork_Memory.View.DifficoltaFacile.xaml
+build_metadata.AdditionalFiles.TargetPath = View\DifficoltaFacile.xaml
+build_metadata.AdditionalFiles.RelativePath = View\DifficoltaFacile.xaml
+
+[C:/Users/alexandru.condila/Desktop/Memory/View/DifficoltaMedia.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectWork_Memory.View.DifficoltaMedia.xaml
+build_metadata.AdditionalFiles.TargetPath = View\DifficoltaMedia.xaml
+build_metadata.AdditionalFiles.RelativePath = View\DifficoltaMedia.xaml
+
+[C:/Users/alexandru.condila/Desktop/Memory/View/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectWork_Memory.View.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\MainPage.xaml
 
-[C:/Users/dante.magalotti/Desktop/Memory/View/NewPage1.xaml]
+[C:/Users/alexandru.condila/Desktop/Memory/View/Regolamento.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = ProjectWork_Memory.View.NewPage1.xaml
-build_metadata.AdditionalFiles.TargetPath = View\NewPage1.xaml
-build_metadata.AdditionalFiles.RelativePath = View\NewPage1.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectWork_Memory.View.Regolamento.xaml
+build_metadata.AdditionalFiles.TargetPath = View\Regolamento.xaml
+build_metadata.AdditionalFiles.RelativePath = View\Regolamento.xaml
+
+[C:/Users/alexandru.condila/Desktop/Memory/View/SceltaDifficolta.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectWork_Memory.View.SceltaDifficolta.xaml
+build_metadata.AdditionalFiles.TargetPath = View\SceltaDifficolta.xaml
+build_metadata.AdditionalFiles.RelativePath = View\SceltaDifficolta.xaml

@@ -58,6 +58,15 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <AndroidResource Remove="View-Model\**" />
+	  <Compile Remove="View-Model\**" />
+	  <EmbeddedResource Remove="View-Model\**" />
+	  <MauiCss Remove="View-Model\**" />
+	  <MauiXaml Remove="View-Model\**" />
+	  <None Remove="View-Model\**" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="AathifMahir.Maui.MauiIcons.FontAwesome.Solid" Version="4.0.0" />
 		<PackageReference Include="CommunityToolkit.Maui.Core" Version="9.1.1" />
 		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
@@ -67,13 +76,31 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="View-Model\" />
+	  <MauiXaml Update="View\DifficoltaDifficile.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="View\DifficoltaFacile.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="View\DifficoltaMedia.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="View\Regolamento.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="View\SceltaDifficolta.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 
 	<ItemGroup>
 	  <None Update="View\SceltaDifficolta.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </None>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="ViewModel\" />
 	</ItemGroup>
 
 </Project>

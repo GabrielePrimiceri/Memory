@@ -1,34 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\",
+  "WorkspaceRootPath": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\dante.magalotti\\desktop\\memory\\view\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\dante.magalotti\\desktop\\memory\\view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\dante.magalotti\\desktop\\memory\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\dante.magalotti\\desktop\\memory\\view\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\dante.magalotti\\desktop\\memory\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\alexandru.condila\\desktop\\memory\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\dante.magalotti\\desktop\\memory\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\alexandru.condila\\desktop\\memory\\view\\sceltadifficolta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\sceltadifficolta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\dante.magalotti\\desktop\\memory\\view\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\alexandru.condila\\desktop\\memory\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\alexandru.condila\\desktop\\memory\\view\\regolamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\regolamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\alexandru.condila\\desktop\\memory\\view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,96 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\View\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "View\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\View\\MainPage.xaml.cs",
-              "RelativeToolTip": "View\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T06:26:37.696Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Colors.xaml",
-              "DocumentMoniker": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\Resources\\Styles\\Colors.xaml",
-              "RelativeDocumentMoniker": "Resources\\Styles\\Colors.xaml",
-              "ToolTip": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\Resources\\Styles\\Colors.xaml",
-              "RelativeToolTip": "Resources\\Styles\\Colors.xaml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "SceltaDifficolta.xaml",
+              "DocumentMoniker": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\SceltaDifficolta.xaml",
+              "RelativeDocumentMoniker": "View\\SceltaDifficolta.xaml",
+              "ToolTip": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\SceltaDifficolta.xaml",
+              "RelativeToolTip": "View\\SceltaDifficolta.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-15T08:46:51.212Z",
+              "WhenOpened": "2025-05-17T07:17:07.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NewPage1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\View\\NewPage1.xaml.cs",
-              "RelativeDocumentMoniker": "View\\NewPage1.xaml.cs",
-              "ToolTip": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\View\\NewPage1.xaml.cs",
-              "RelativeToolTip": "View\\NewPage1.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:14:08.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NewPage1.xaml",
-              "DocumentMoniker": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\View\\NewPage1.xaml",
-              "RelativeDocumentMoniker": "View\\NewPage1.xaml",
-              "ToolTip": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\View\\NewPage1.xaml",
-              "RelativeToolTip": "View\\NewPage1.xaml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAApwB4AAAANAAAA",
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "View\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\MainPage.xaml",
+              "RelativeToolTip": "View\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-15T08:44:42.47Z",
+              "WhenOpened": "2025-05-17T07:15:13.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\View\\App.xaml",
-              "RelativeDocumentMoniker": "View\\App.xaml",
-              "ToolTip": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\View\\App.xaml",
-              "RelativeToolTip": "View\\App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Title": "Regolamento.xaml",
+              "DocumentMoniker": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\Regolamento.xaml",
+              "RelativeDocumentMoniker": "View\\Regolamento.xaml",
+              "ToolTip": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\Regolamento.xaml",
+              "RelativeToolTip": "View\\Regolamento.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-15T08:32:18.382Z",
+              "OverriddenGroupName": "View",
+              "WhenOpened": "2025-05-17T07:01:41.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\MainPage.xaml.cs",
+              "RelativeToolTip": "View\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:08:29.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\View\\MainPage.xaml",
-              "RelativeDocumentMoniker": "View\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\View\\MainPage.xaml",
-              "RelativeToolTip": "View\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-13T16:42:01.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\View\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\App.xaml.cs",
               "RelativeDocumentMoniker": "View\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\dante.magalotti\\Desktop\\Memory\\View\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\App.xaml.cs",
               "RelativeToolTip": "View\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T10:35:37.629Z",
               "EditorCaption": ""
