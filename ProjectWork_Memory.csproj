@@ -58,12 +58,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <AndroidResource Remove="View-Model\**" />
-	  <Compile Remove="View-Model\**" />
-	  <EmbeddedResource Remove="View-Model\**" />
-	  <MauiCss Remove="View-Model\**" />
-	  <MauiXaml Remove="View-Model\**" />
-	  <None Remove="View-Model\**" />
+	  <AndroidResource Remove="ViewModel\**" />
+	  <Compile Remove="ViewModel\**" />
+	  <EmbeddedResource Remove="ViewModel\**" />
+	  <MauiCss Remove="ViewModel\**" />
+	  <MauiXaml Remove="ViewModel\**" />
+	  <None Remove="ViewModel\**" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -72,7 +72,7 @@
 		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
 		<PackageReference Include="Microsoft.Maui.Controls" Version="8.0.100" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="8.0.100" />
-		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
+		<PackageReference Include="CommunityToolkit.Maui" Version="9.1.1" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -97,10 +97,6 @@
 	  <None Update="View\SceltaDifficolta.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </None>
-	</ItemGroup>
-
-	<ItemGroup>
-	  <Folder Include="ViewModel\" />
 	</ItemGroup>
 
 </Project>

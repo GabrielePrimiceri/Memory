@@ -1,26 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\",
+  "WorkspaceRootPath": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\alexandru.condila\\desktop\\memory\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\alexandru.condila\\desktop\\memory\\view\\sceltadifficolta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\view\\sceltadifficolta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\sceltadifficolta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\alexandru.condila\\desktop\\memory\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\view\\difficoltamedia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\difficoltamedia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\alexandru.condila\\desktop\\memory\\view\\regolamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\view-model\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view-model\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\view\\difficoltafacile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\difficoltafacile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\model\\gestorematrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:model\\gestorematrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\view\\difficoltadifficile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\difficoltadifficile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\view\\regolamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\regolamento.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\alexandru.condila\\desktop\\memory\\view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\model\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:model\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\view\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\view\\difficoltafacile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:view\\difficoltafacile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\model\\partita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:model\\partita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|c:\\users\\filippo.stoppa\\desktop\\memory\\model\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC026292-4F54-4E01-951F-E6C32DAAA3FA}|ProjectWork_Memory.csproj|solutionrelative:model\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +74,158 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:35:30.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DifficoltaMedia.xaml",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\DifficoltaMedia.xaml",
+              "RelativeDocumentMoniker": "View\\DifficoltaMedia.xaml",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\DifficoltaMedia.xaml",
+              "RelativeToolTip": "View\\DifficoltaMedia.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T10:21:27.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DifficoltaDifficile.xaml",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\DifficoltaDifficile.xaml",
+              "RelativeDocumentMoniker": "View\\DifficoltaDifficile.xaml",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\DifficoltaDifficile.xaml",
+              "RelativeToolTip": "View\\DifficoltaDifficile.xaml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAqwGMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T10:21:26.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\App.xaml",
+              "RelativeDocumentMoniker": "View\\App.xaml",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\App.xaml",
+              "RelativeToolTip": "View\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T10:21:01.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Carta.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\Model\\Carta.cs",
+              "RelativeDocumentMoniker": "Model\\Carta.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\Model\\Carta.cs",
+              "RelativeToolTip": "Model\\Carta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:50:56.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestoreMatrice.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\Model\\GestoreMatrice.cs",
+              "RelativeDocumentMoniker": "Model\\GestoreMatrice.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\Model\\GestoreMatrice.cs",
+              "RelativeToolTip": "Model\\GestoreMatrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:49:37.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DifficoltaFacile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\DifficoltaFacile.xaml.cs",
+              "RelativeDocumentMoniker": "View\\DifficoltaFacile.xaml.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\DifficoltaFacile.xaml.cs",
+              "RelativeToolTip": "View\\DifficoltaFacile.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:46:04.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View-Model\\GameViewModel.cs",
+              "RelativeDocumentMoniker": "View-Model\\GameViewModel.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View-Model\\GameViewModel.cs",
+              "RelativeToolTip": "View-Model\\GameViewModel.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAewDYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:45:28.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Partita.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\Model\\Partita.cs",
+              "RelativeDocumentMoniker": "Model\\Partita.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\Model\\Partita.cs",
+              "RelativeToolTip": "Model\\Partita.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:44:49.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Giocatore.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\Model\\Giocatore.cs",
+              "RelativeDocumentMoniker": "Model\\Giocatore.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\Model\\Giocatore.cs",
+              "RelativeToolTip": "Model\\Giocatore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:44:47.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DifficoltaFacile.xaml",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\DifficoltaFacile.xaml",
+              "RelativeDocumentMoniker": "View\\DifficoltaFacile.xaml",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\DifficoltaFacile.xaml",
+              "RelativeToolTip": "View\\DifficoltaFacile.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T09:36:58.384Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SceltaDifficolta.xaml",
-              "DocumentMoniker": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\SceltaDifficolta.xaml",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\SceltaDifficolta.xaml",
               "RelativeDocumentMoniker": "View\\SceltaDifficolta.xaml",
-              "ToolTip": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\SceltaDifficolta.xaml",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\SceltaDifficolta.xaml",
               "RelativeToolTip": "View\\SceltaDifficolta.xaml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -47,24 +234,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\MainPage.xaml",
               "RelativeDocumentMoniker": "View\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\MainPage.xaml",
               "RelativeToolTip": "View\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-17T07:15:13.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Regolamento.xaml",
-              "DocumentMoniker": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\Regolamento.xaml",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\Regolamento.xaml",
               "RelativeDocumentMoniker": "View\\Regolamento.xaml",
-              "ToolTip": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\Regolamento.xaml",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\Regolamento.xaml",
               "RelativeToolTip": "View\\Regolamento.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -74,11 +261,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "View\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\MainPage.xaml.cs",
               "RelativeToolTip": "View\\MainPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,11 +274,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\App.xaml.cs",
               "RelativeDocumentMoniker": "View\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\View\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\View\\App.xaml.cs",
               "RelativeToolTip": "View\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

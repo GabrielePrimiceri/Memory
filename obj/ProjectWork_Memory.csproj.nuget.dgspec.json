@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexandru.condila\\Desktop\\Memory\\ProjectWork_Memory.csproj": {}
+    "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\ProjectWork_Memory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexandru.condila\\Desktop\\Memory\\ProjectWork_Memory.csproj": {
+    "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\ProjectWork_Memory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\ProjectWork_Memory.csproj",
+        "projectUniqueName": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\ProjectWork_Memory.csproj",
         "projectName": "ProjectWork_Memory",
-        "projectPath": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\ProjectWork_Memory.csproj",
+        "projectPath": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\ProjectWork_Memory.csproj",
         "packagesPath": "C:\\Users\\w10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\obj\\",
+        "outputPath": "C:\\Users\\filippo.stoppa\\Desktop\\Memory\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -70,6 +70,10 @@
               "target": "Package",
               "version": "[4.0.0, )"
             },
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[9.1.1, )"
+            },
             "CommunityToolkit.Maui.Core": {
               "target": "Package",
               "version": "[9.1.1, )"
@@ -77,10 +81,6 @@
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.4.0, )"
-            },
-            "Microsoft.Extensions.Logging.Debug": {
-              "target": "Package",
-              "version": "[8.0.0, )"
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
@@ -125,6 +125,10 @@
               "target": "Package",
               "version": "[4.0.0, )"
             },
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[9.1.1, )"
+            },
             "CommunityToolkit.Maui.Core": {
               "target": "Package",
               "version": "[9.1.1, )"
@@ -132,10 +136,6 @@
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.4.0, )"
-            },
-            "Microsoft.Extensions.Logging.Debug": {
-              "target": "Package",
-              "version": "[8.0.0, )"
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
@@ -180,6 +180,10 @@
               "target": "Package",
               "version": "[4.0.0, )"
             },
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[9.1.1, )"
+            },
             "CommunityToolkit.Maui.Core": {
               "target": "Package",
               "version": "[9.1.1, )"
@@ -187,10 +191,6 @@
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.4.0, )"
-            },
-            "Microsoft.Extensions.Logging.Debug": {
-              "target": "Package",
-              "version": "[8.0.0, )"
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
@@ -236,6 +236,10 @@
               "target": "Package",
               "version": "[4.0.0, )"
             },
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[9.1.1, )"
+            },
             "CommunityToolkit.Maui.Core": {
               "target": "Package",
               "version": "[9.1.1, )"
@@ -243,10 +247,6 @@
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.4.0, )"
-            },
-            "Microsoft.Extensions.Logging.Debug": {
-              "target": "Package",
-              "version": "[8.0.0, )"
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
@@ -270,8 +270,24 @@
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[8.0.7, 8.0.7]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[8.0.7, 8.0.7]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[8.0.7, 8.0.7]"
+            },
+            {
               "name": "Microsoft.Windows.SDK.NET.Ref",
               "version": "[10.0.19041.53, 10.0.19041.53]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[8.0.7, 8.0.7]"
             }
           ],
           "frameworkReferences": {
@@ -299,6 +315,9 @@
           "#import": []
         },
         "ios-arm64": {
+          "#import": []
+        },
+        "maccatalyst-arm64": {
           "#import": []
         },
         "maccatalyst-x64": {
