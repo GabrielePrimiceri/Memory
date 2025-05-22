@@ -12,7 +12,7 @@ public partial class DifficoltaFacile : ContentPage
 	public async Task UsaBottone(object sender)
 	{
 		Button button = sender as Button;
-
+		
 		if(_primoBottone)
 		{
 
