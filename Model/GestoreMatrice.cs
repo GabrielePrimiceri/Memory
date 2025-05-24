@@ -7,7 +7,7 @@ namespace ProjectWork_Memory.Model
 {
     public class GestoreMatrice
     {
-        Random _random;
+       
         private Carta[,]? _matriceCarte;
 
         public Carta[,]? MatriceCarte
@@ -19,18 +19,34 @@ namespace ProjectWork_Memory.Model
         public GestoreMatrice(int righe, int colonne)
         {
             MatriceCarte = new Carta[righe, colonne];
-            _random = new Random();
+            
         }
 
         public void InserisciCarte(Carta carta)
         {
-            int randomRighe = _random.Next(0, MatriceCarte.GetLength(0) + 1); ;
-            int randomColonne = _random.Next(0, MatriceCarte.GetLength(1) + 1);
-            if (MatriceCarte[randomRighe, randomColonne] == null)
+            Random _random = new Random();
+            foreach(Carta i in _matriceCarte)
             {
-                MatriceCarte[randomRighe, randomColonne] = carta;
+                if (i == null)
+                {
+                    break;
+                }
+                else throw new ArgumentException("Errore");
+
             }
-            else throw new Exception("Errore, la carta non può essere inserita");
+            int randomRighe = _random.Next(0, MatriceCarte.GetLength(0) + 1);
+            int randomColonne = _random.Next(0, MatriceCarte.GetLength(1) + 1);
+            do
+            {
+                randomRighe = _random.Next(0, MatriceCarte.GetLength(0) + 1);
+                randomColonne = _random.Next(0, MatriceCarte.GetLength(1) + 1);
+
+                if (MatriceCarte[randomRighe, randomColonne] == null)
+                {
+                    MatriceCarte[randomRighe, randomColonne] = carta;
+                    break;
+                }
+            } while (MatriceCarte[randomRighe, randomColonne] != null);
         }
     }
 }

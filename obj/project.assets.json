@@ -39119,11 +39119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriele.primiceri\\Desktop\\Memory\\ProjectWork_Memory.csproj",
+      "projectUniqueName": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\ProjectWork_Memory.csproj",
       "projectName": "ProjectWork_Memory",
-      "projectPath": "C:\\Users\\gabriele.primiceri\\Desktop\\Memory\\ProjectWork_Memory.csproj",
+      "projectPath": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\ProjectWork_Memory.csproj",
       "packagesPath": "C:\\Users\\w10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriele.primiceri\\Desktop\\Memory\\obj\\",
+      "outputPath": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OC3XfgtXb9I=",
+  "dgSpecHash": "SzcJ9T7jySk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriele.primiceri\\Desktop\\Memory\\ProjectWork_Memory.csproj",
+  "projectFilePath": "C:\\Users\\alexandru.condila\\Desktop\\Memory\\ProjectWork_Memory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w10\\.nuget\\packages\\aathifmahir.maui.mauiicons.core\\4.0.0\\aathifmahir.maui.mauiicons.core.4.0.0.nupkg.sha512",
     "C:\\Users\\w10\\.nuget\\packages\\aathifmahir.maui.mauiicons.fontawesome.solid\\4.0.0\\aathifmahir.maui.mauiicons.fontawesome.solid.4.0.0.nupkg.sha512",
