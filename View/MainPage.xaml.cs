@@ -12,7 +12,7 @@ namespace ProjectWork_Memory.View
 
         private async void IniziaPartita(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new SceltaDifficolta());
+            await Navigation.PushAsync(new DifficoltaDifficile());
         }
 
         private async void Regolamento(object sender, EventArgs e)

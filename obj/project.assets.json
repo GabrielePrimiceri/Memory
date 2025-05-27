@@ -39113,24 +39113,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\filos\\.nuget\\packages\\": {},
+    "C:\\Users\\gabri\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filos\\OneDrive\\Desktop\\Memory\\ProjectWork_Memory.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\Memory\\ProjectWork_Memory.csproj",
       "projectName": "ProjectWork_Memory",
-      "projectPath": "C:\\Users\\filos\\OneDrive\\Desktop\\Memory\\ProjectWork_Memory.csproj",
-      "packagesPath": "C:\\Users\\filos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filos\\OneDrive\\Desktop\\Memory\\obj\\",
+      "projectPath": "C:\\Users\\gabri\\Desktop\\Memory\\ProjectWork_Memory.csproj",
+      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabri\\Desktop\\Memory\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\filos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

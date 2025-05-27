@@ -15,16 +15,7 @@
     <MauiXaml Update="View\DifficoltaDifficile.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="View\DifficoltaFacile.xaml">
-      <SubType>Designer</SubType>
-    </MauiXaml>
-    <MauiXaml Update="View\DifficoltaMedia.xaml">
-      <SubType>Designer</SubType>
-    </MauiXaml>
     <MauiXaml Update="View\Regolamento.xaml">
-      <SubType>Designer</SubType>
-    </MauiXaml>
-    <MauiXaml Update="View\SceltaDifficolta.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>
