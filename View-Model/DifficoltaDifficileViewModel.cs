@@ -1,5 +1,6 @@
 ﻿using System.Collections.ObjectModel;
 using System.Windows.Input;
+using Android.Graphics;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using ProjectWork_Memory.Model;
@@ -9,10 +10,11 @@ namespace ProjectWork_Memory.ViewModel
 {
     public partial class DifficoltaDifficileViewModel : ObservableObject
     {
+        GestoreMatrice gestore;
         public DifficoltaDifficileViewModel()
         {
-            Button[,] _matriceBottni = new Button[4,8];
-            GestoreMatrice gestore = new GestoreMatrice(4, 8);
+            gestore = new GestoreMatrice(4, 8);
+
             Carta c1 = new Carta(1);
             Carta c2 = new Carta(2);
             Carta c3 = new Carta(3);
@@ -80,14 +82,33 @@ namespace ProjectWork_Memory.ViewModel
             gestore.InserisciCarte(d14);
             gestore.InserisciCarte(d15);
             gestore.InserisciCarte(d16);
-
         }
 
-        
+
         [RelayCommand]
-        public async Task UsaBottone(Button b1)
+        public async Task UsaBottone(Button b1, Button[,] matriceBottoni)
         {
-          b1.Content
+            for (int i = 0; i < matriceBottoni.GetLength(0); i++)
+            {
+                for (int j = 0; j < matriceBottoni.GetLength(1); j++)
+                {
+                    if (b1 == matriceBottoni[i, j])
+                    {
+                        // Prendi il numero dalla matrice
+                        int num = gestore.MatriceCarte[i, j].Numero;
+
+                        // Mostra il numero sul bottone
+                        b1.Text = num.ToString();
+
+                        // Attendi 1 secondo (1000 ms)
+                        await Task.Delay(1000);
+
+                        // Nascondi di nuovo il numero
+                        b1.Text = ""; // oppure "?" se preferisci
+                    }
+                }
+            }
         }
+
     }
 }

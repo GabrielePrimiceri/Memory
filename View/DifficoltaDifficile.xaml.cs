@@ -10,11 +10,32 @@ public partial class DifficoltaDifficile : ContentPage
 	{
 		InitializeComponent();
 		BindingContext = _viewModel= new DifficoltaDifficileViewModel();
+		matriceBottoniGrid = new Button[8, 4];
+		int contatoreColonne = 0;
+		int contatoreRighe = 0;
+		for (int i = 0; i< GameGrid.Children.Count; i++)
+		{
+			contatoreColonne++;
+
+			if (GameGrid.Children[i] is Button)
+			{
+				if (contatoreColonne == 4)
+				{
+					contatoreColonne = 0;
+					contatoreRighe++;
+				}
+				matriceBottoniGrid[contatoreRighe, contatoreColonne] = (Button)GameGrid.Children[i];
+            }
+
+        }
 	}
 
+	Button[,] matriceBottoniGrid;
+
 	[RelayCommand]
-	public async void UsaBottone()
+	public async void UsaBottone(object sender)
 	{
-		await _viewModel.UsaBottone();
+		Button button = sender as Button;
+		await _viewModel.UsaBottone(button, matriceBottoniGrid);
 	}
 }
