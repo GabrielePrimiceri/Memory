@@ -20,7 +20,7 @@
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
 
-                
+
                 <StackLayout VerticalOptions="CenterAndExpand"
                              HorizontalOptions="CenterAndExpand"
                              Padding="20">
@@ -32,7 +32,7 @@
                           WidthRequest="300"
                           HeightRequest="600">
 
-                    
+
                         <Grid.RowDefinitions>
                             <RowDefinition Height="*" />
                             <RowDefinition Height="*" />
@@ -44,7 +44,7 @@
                             <RowDefinition Height="*" />
                         </Grid.RowDefinitions>
 
-                        
+
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="*" />
                             <ColumnDefinition Width="*" />
@@ -52,46 +52,47 @@
                             <ColumnDefinition Width="*" />
                         </Grid.ColumnDefinitions>
 
-                  
-                        <Button Grid.Row="0" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="0" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="0" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="0" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
 
-                        <Button Grid.Row="1" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="1" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="1" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="1" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b1" Grid.Row="0" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}" CommandParameter="{00}"/>
+                        <--mettere i numeri nei parametri-->
+                            <Button x:Name="b2" Grid.Row="0" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b3" Grid.Row="0" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b4" Grid.Row="0" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
 
-                        <Button Grid.Row="2" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="2" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="2" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="2" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b5"  Grid.Row="1" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b6"  Grid.Row="1" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b7"  Grid.Row="1" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b8" Grid.Row="1" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
 
-                        <Button Grid.Row="3" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="3" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="3" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="3" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b9" Grid.Row="2" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b10" Grid.Row="2" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b11" Grid.Row="2" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b12" Grid.Row="2" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
 
-                        <Button Grid.Row="4" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="4" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="4" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="4" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b13" Grid.Row="3" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b14"  Grid.Row="3" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b15"  Grid.Row="3" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b16" Grid.Row="3" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
 
-                        <Button Grid.Row="5" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="5" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="5" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="5" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b17" Grid.Row="4" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button  x:Name="b18" Grid.Row="4" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b19" Grid.Row="4" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b20" Grid.Row="4" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
 
-                        <Button Grid.Row="6" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="6" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="6" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="6" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b21" Grid.Row="5" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b22" Grid.Row="5" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b23" Grid.Row="5" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b24" Grid.Row="5" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
 
-                        <Button Grid.Row="7" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="7" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="7" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
-                        <Button Grid.Row="7" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b25" Grid.Row="6" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b26" Grid.Row="6" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b27" Grid.Row="6" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b28" Grid.Row="6" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+
+                        <Button x:Name="b29" Grid.Row="7" Grid.Column="0" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b30" Grid.Row="7" Grid.Column="1" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b31" Grid.Row="7" Grid.Column="2" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
+                        <Button x:Name="b32" Grid.Row="7" Grid.Column="3" BackgroundColor="LightBlue" Command="{Binding UsaBottoneCommand}"/>
                     </Grid>
                 </StackLayout>
             </Grid>

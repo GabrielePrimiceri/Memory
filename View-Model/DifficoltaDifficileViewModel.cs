@@ -1,6 +1,5 @@
 ﻿using System.Collections.ObjectModel;
 using System.Windows.Input;
-using Android.Graphics;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using ProjectWork_Memory.Model;
@@ -86,7 +85,7 @@ namespace ProjectWork_Memory.ViewModel
 
 
         [RelayCommand]
-        public async Task UsaBottone(Button b1, Button[,] matriceBottoni)
+        public void UsaBottone(Button b1)
         {
             for (int i = 0; i < matriceBottoni.GetLength(0); i++)
             {
@@ -100,11 +99,6 @@ namespace ProjectWork_Memory.ViewModel
                         // Mostra il numero sul bottone
                         b1.Text = num.ToString();
 
-                        // Attendi 1 secondo (1000 ms)
-                        await Task.Delay(1000);
-
-                        // Nascondi di nuovo il numero
-                        b1.Text = ""; // oppure "?" se preferisci
                     }
                 }
             }
