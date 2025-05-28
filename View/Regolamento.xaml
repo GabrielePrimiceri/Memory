@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectWork_Memory.View.Regolamento"
+             BackgroundColor="#512BD4"
+             Title="Regolamento">
+     <ScrollView>
+        <VerticalStackLayout Padding="20"
+                             Spacing="20"
+                             VerticalOptions="CenterAndExpand"
+                             HorizontalOptions="Center">
+
+          
+            <Label Text="Regolamento"
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Center" />
+
+            
+            <Label Text="Lo scopo del gioco è trovare tutte le coppie di carte uguali nel minor tempo e numero di tentativi possibile.
+
+- All'inizio della partita, le carte sono coperte.
+- Tocca una carta per scoprirla.
+- Tocca una seconda carta per tentare di trovare la coppia.
+- Se le carte corrispondono, rimarranno scoperte.
+- Se non corrispondono, torneranno coperte dopo un breve momento.
+- La partita termina quando tutte le coppie sono state trovate.
+
+Puoi scegliere tra 3 livelli di difficoltà:
+- Facile (4x4)
+- Medio (4x6)
+- Difficile (4x8)
+
+Buon divertimento!"
+                   TextColor="White"
+                   FontSize="16"
+                   LineHeight="1.5"
+                   HorizontalTextAlignment="Center" />
+
+            
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
