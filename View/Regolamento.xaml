@@ -27,11 +27,6 @@
 - Se non corrispondono, torneranno coperte dopo un breve momento.
 - La partita termina quando tutte le coppie sono state trovate.
 
-Puoi scegliere tra 3 livelli di difficoltà:
-- Facile (4x4)
-- Medio (4x6)
-- Difficile (4x8)
-
 Buon divertimento!"
                    TextColor="White"
                    FontSize="16"

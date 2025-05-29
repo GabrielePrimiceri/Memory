@@ -24,11 +24,12 @@ namespace ProjectWork_Memory.Model
             Carta carta = giocatore.ScegliCarta(riga, colonna);
             Carta carta2 = giocatore.ScegliCarta(riga2, colonna2);
             bool giusto = false;
-            if (carta == carta2)
+            if (carta.Equals(carta2))
             {
+
+                giusto = true;
                 giocatore.GestoreMatrice.MatriceCarte[riga, colonna] = null;
                 giocatore.GestoreMatrice.MatriceCarte[riga2, colonna2] = null;
-                giusto = true;
             }
             return giusto;
         }
@@ -37,6 +38,7 @@ namespace ProjectWork_Memory.Model
         {
             return giocatore.ScegliCarta(riga, colonna).Numero;
         }
+
 
     }
 }

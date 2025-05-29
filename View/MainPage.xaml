@@ -40,7 +40,8 @@
                 HeightRequest="60"
                 CornerRadius="30"
                 BackgroundColor="#F44336"
-                TextColor="White"/>
+                TextColor="White"
+                Clicked="Esci_Clicked" />
 
         </VerticalStackLayout>
 </ContentPage>

@@ -12,17 +12,24 @@ namespace ProjectWork_Memory.View
 
         private async void IniziaPartita(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new DifficoltaDifficile());
+            if(sender is Button)
+            {
+                await Navigation.PushAsync(new DifficoltaDifficile());
+            }
+            
         }
 
         private async void Regolamento(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new Regolamento());
         }
-
-        private void Esci(object sender, EventArgs e)
+        private async void Esci_Clicked(object sender, EventArgs e)
         {
-            Application.Current.Quit();
+            bool confirmExit = await DisplayAlert("Conferma", "Vuoi davvero uscire dal gioco?", "Sì", "No");
+            if (confirmExit)
+            {
+                Application.Current.Quit();
+            }
         }
     }
 }

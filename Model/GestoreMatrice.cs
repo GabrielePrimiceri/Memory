@@ -31,15 +31,13 @@ namespace ProjectWork_Memory.Model
                 {
                     break;
                 }
-                else throw new ArgumentException("Errore");
-
             }
-            int randomRighe = _random.Next(0, MatriceCarte.GetLength(0) + 1);
-            int randomColonne = _random.Next(0, MatriceCarte.GetLength(1) + 1);
+            int randomRighe = _random.Next(0, MatriceCarte.GetLength(0) );
+            int randomColonne = _random.Next(0, MatriceCarte.GetLength(1) );
             do
             {
-                randomRighe = _random.Next(0, MatriceCarte.GetLength(0) + 1);
-                randomColonne = _random.Next(0, MatriceCarte.GetLength(1) + 1);
+                randomRighe = _random.Next(0, MatriceCarte.GetLength(0) );
+                randomColonne = _random.Next(0, MatriceCarte.GetLength(1) );
 
                 if (MatriceCarte[randomRighe, randomColonne] == null)
                 {

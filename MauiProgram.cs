@@ -16,9 +16,8 @@ namespace ProjectWork_Memory
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
-
 #if DEBUG
-            builder.Logging.AddDebug(); // Aggiungi il debug solo in modalità DEBUG
+            builder.Logging.AddDebug();
 #endif
 
             return builder.Build();
